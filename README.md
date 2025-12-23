@@ -1,11 +1,11 @@
 #  🚗 Insights-Pulse-Uber-Analytics-Hub-2k24
 1. 📌Project Overview - 
 
-The "Uber Rides Analytics Hub" is an interactive data analytics dashboard designed to provide a comprehensive overview of Uber ride bookings, revenue performance, vehicle usage, cancellations, and customer behavior.  
+     The "Uber Rides Analytics Hub" is an          interactive data analytics dashboard designed to provide a comprehensive overview of Uber bb    ride bookings, revenue performance, vehicle usage, cancellations, and customer behavior.  
 This project converts raw booking data into meaningful business insights through visual storytelling and dynamic filtering.
 
 2. 🎯Purpose of the Project -
-- Monitor overall booking performance and revenue trends  
+    - Monitor overall booking performance and        revenue trends  
 - Analyze booking status distribution (Completed vs Cancelled)  
 - Understand vehicle-type contribution to total bookings  
 - Track month-wise booking trends for demand forecasting  
