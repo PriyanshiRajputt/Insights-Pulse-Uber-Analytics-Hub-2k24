@@ -6,10 +6,10 @@ This project converts raw booking data into meaningful business insights through
 
 2. 🎯Purpose of the Project -
     - Monitor overall booking performance and        revenue trends  
-- Analyze booking status distribution (Completed vs Cancelled)  
-- Understand vehicle-type contribution to total bookings  
-- Track month-wise booking trends for demand forecasting  
-- Support data-driven decision-making for stakeholders  
+    - Analyze booking status distribution (Completed vs Cancelled)  
+    - Understand vehicle-type contribution to total bookings  
+    - Track month-wise booking trends for demand forecasting  
+    - Support data-driven decision-making for stakeholders  
 
 3. 🛠Tech Stack -
 - Data Visualization:Power BI
